@@ -1,6 +1,3 @@
 {
-    "name": "takumi-dev/parallel-for",
-    "require": {
-        "phpunit/phpunit": "4.1.*"
-    }
+    "name": "takumi-dev/parallel-for"
 }
